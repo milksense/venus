@@ -39,6 +39,4 @@ If you find this project interesting or helpful, please star the repository.
 
 ### Misc
 
-This repo is a improvement fork of [lunar](original).
-
-[original]: https://github.com/zeyad-mansour/lunar
+This repo is a improvement fork of [lunar](https://github.com/zeyad-mansour/lunar).
