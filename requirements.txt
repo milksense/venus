@@ -1,6 +1,6 @@
 --find-links https://download.pytorch.org/whl/torch_stable.html
 
-torch==1.13.1
+torch==2.0.0 
 torchvision==0.14.1
 
 matplotlib>=3.2.2
